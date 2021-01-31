@@ -1,0 +1,9 @@
+{
+  "name": "configstore",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "configstore": "^5.0.1"
+  }
+}
